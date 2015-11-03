@@ -12,7 +12,7 @@ class MicropostsController < ApplicationController
 		end
 	end
 
-	end
+	
 	def	destroy
 		@micropost.destroy
 		flash[:success] = "Micropost deleted"

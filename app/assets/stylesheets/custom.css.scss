@@ -181,7 +181,7 @@ input	{
 				}
 		}
 		.timestamp	{
-				color:	$gray-light;
+				color: grey;
 				display:	block;
 				margin-left:	60px;
 		}
@@ -189,6 +189,8 @@ input	{
 				float:	left;
 				margin-right:	10px;
 				margin-top:	5px;
+				width:50px;
+				height:50px
 		}
 }
 aside	{
